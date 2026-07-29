@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Western Digital My Book 8TB External Hard Drive",
+    "price": "₹26,480",
+    "original_price": "₹30,000",
+    "discount": "-11%",
+    "availability": "In stock",
+    "url": "https://mdcomputers.in/western-digital-my-book-8tb.html",
+    "image_url": "https://mdcomputers.in/images/wd-my-book.jpg",
+    "model": null,
+    "brand": null,
+    "specifications": null
+  },
+  {
+    "name": "Seagate Expansion 2TB External HDD",
+    "price": "₹7,499",
+    "original_price": null,
+    "discount": null,
+    "availability": "Out of stock",
+    "url": "https://mdcomputers.in/seagate-expansion-2tb.html",
+    "image_url": "https://mdcomputers.in/images/expansion.jpg",
+    "model": null,
+    "brand": null,
+    "specifications": null
+  }
+]
